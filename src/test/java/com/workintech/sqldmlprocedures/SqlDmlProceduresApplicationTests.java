@@ -9,6 +9,7 @@ import com.workintech.sqldmlprocedures.repository.OgrenciRepository;
 import com.workintech.sqldmlprocedures.repository.TurRepository;
 import com.workintech.sqldmlprocedures.repository.YazarRepository;
 import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.extension.ExtendWith;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
